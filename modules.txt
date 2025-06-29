@@ -18,6 +18,8 @@ the system and what all are the diseases predicted by the system.
 -   View Doctor    Admin can view various Doctors along with their personal details.  
 -   View Disease    Admin can view various diseases details stored in database.  
 -   View Patient    Admin can view various patient details that had accessed the system.  
+-   View Feedback    Admin can view feedback provided by various users. 
+-   View Feedback    Admin can view feedback provided by various users. 
 -   View Feedback    Admin can view feedback provided by various users.  
     
 
